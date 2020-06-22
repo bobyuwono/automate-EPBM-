@@ -6,7 +6,7 @@ Based on William Hanugra's autoepbm, a small js code for automatic form filling 
 How to use ?
 ------------
 
-* Login into EPBM, https://simak.ipb.ac.id/EPBMOnline/EPBM.
+* Login to EPBM, https://simak.ipb.ac.id/EPBMOnline/EPBM.
 * Pick a course.
 * Open javascript console : Chrome (ctrl+shift+j), Firefox (ctrl+shift+k)
 * Copy this code 
