@@ -1,4 +1,4 @@
-# automate-EPBM-
+# automate EPBM (2020's 1st Term academic year edition)
 automate your IPB 2020 EPBM filling in a fraction of second with javascript!
 
 Based on William Hanugra's autoepbm, a small js code for automatic form filling in Evaluasi Penyelenggaraan Proses Belajar Mengajar (EPBM). The Code using in this repo was Re-Newed by Me . For more information see https://github.com/williamhanugra/epbm-hack
